@@ -17,8 +17,11 @@
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| AI Researcher | CONSOB (Italian Securities and Exchange Commission) | Present |
-| Co-Founder | PropTech startup (Exor-backed) | Previous |
+| CTO | Lizard, Furniture as a Service | Sep 2025 - Present |
+| Venture Fellow | MITdesignX Venice | Sep 2025 - Nov 2025 |
+| AI Expert | CONSOB (Italian Securities and Exchange Commission) | Apr 2024 - Oct 2025 |
+| Co-Founder and CTO | RELLAI (Exor-backed PropTech) | Apr 2023 - Sep 2025 |
+| Entrepreneur in Residence | Vento (Exor Ventures) | Jan 2023 - Apr 2023 |
 
 ---
 
@@ -26,7 +29,8 @@
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| Ph.D. in Artificial Intelligence | Politecnico di Torino, Dept. of Control and Computer Engineering | 2023 - present |
+| Ph.D. in Artificial Intelligence | Politecnico di Torino, Dept. of Control and Computer Engineering | 2022 - present |
+| Visiting Researcher | HES-SO Valais-Wallis, Switzerland | Oct 2024 - May 2025 |
 | M.Sc. in Data Science and Innovation Management | Universita degli Studi di Salerno | 2021 - 2022 |
 | B.Sc. in Economia e Management | LUISS Guido Carli | 2017 - 2020 |
 
