@@ -1,6 +1,6 @@
 # Mario Trerotola
 
-**Ph.D. Candidate in Artificial Intelligence** - Politecnico di Torino
+**Ph.D. in Artificial Intelligence** - Politecnico di Torino
 
 ---
 
